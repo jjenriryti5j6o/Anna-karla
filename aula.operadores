@@ -1,0 +1,10 @@
+<script>
+
+var x = 1
+var y = 2
+
+var resultado = x + y
+
+alert("resultado")
+
+</script>
